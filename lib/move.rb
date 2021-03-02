@@ -13,4 +13,4 @@ def input_to_index(input)
 end
 
 def move
-  display_board(board)
+end
